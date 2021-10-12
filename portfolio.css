@@ -32,8 +32,7 @@ header {
     
 }
 
-
-
+    
 
 h1 {
     font-family: 'Give You Glory', cursive;
@@ -85,7 +84,7 @@ main {
 
 }
 
-.text {
+.porfolio {
    
    
     font-family: 'Give You Glory';
@@ -94,7 +93,7 @@ main {
    
     order: 2;
     padding: 9em;
-    text-align: center;
+    text-align: left;
  
  }
  
